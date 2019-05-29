@@ -10,7 +10,7 @@ $(document).ready(function(){
 	});
 
 
-	
+	//HOANGDEPTRAI
 	range();
 	brand();
 	product();
