@@ -3,7 +3,7 @@
 	$host='localhost';
 	$username='root';
 	$pass='';
-	$db='amaclone';
+	$db='carvancar';
 
 	$conn=mysqli_connect($host,$username,$pass,$db);
 
