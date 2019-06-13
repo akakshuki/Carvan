@@ -1,6 +1,15 @@
 {
-    "open-php-html-js-in-browser.documentRootFolder": "C:\\xampp\\htdocs\\",
-    "open-php-html-js-in-browser.customUrlToOpen": "http://localhost:8484/${relativeDirnameDocumentRoot}/${fileBasename}",
-    "open-php-html-js-in-browser.selectedBrowser": "Chrome",
-    "open-php-html-js-in-browser.urlToOpen": "custom"
+    "files.autoSave": "afterDelay",
+"php.validate.executablePath": "C:/xampp/php/php.exe",
+"open-php-html-js-in-browser.documentRootFolder": "C:/xampp/htdocs/",
+"open-php-html-js-in-browser.customUrlToOpen": "http://localhost:8484/${relativeDirnameDocumentRoot}/${fileBasename}",
+"open-php-html-js-in-browser.urlToOpen": "custom",
+"open-php-html-js-in-browser.selectedBrowser": "Chrome",
+"workbench.iconTheme": "material-icon-theme",
+"workbench.colorTheme": "Default Dark+",
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+"terminal.integrated.confirmOnExit": true,
+"terminal.integrated.enableBell": true,
+"window.zoomLevel": 0
+
 }
